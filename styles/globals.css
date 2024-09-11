@@ -1,27 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  color: theme("colors.text");
+  background: theme("colors.background");
+  font-family: "SUSE", sans-serif;
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+.card {
+  @apply p-4 rounded-sm w-full h-full border-b-2 md:border-2 border-secondary md:mx-4 md:bg-white md:p-4 md:max-w-40 md:min-h-48;
+}
+
+.card > div > h2 {
+  @apply flex flex-col font-bold text-xs text-primary;
+}
+
+.card > div > h1 {
+  @apply font-bold text-lg md:text-xl;
+}
+
+.card:hover > div > h1 {
+  @apply underline decoration-primary;
+}
+
+.card > div > p {
+  @apply hidden mt-2 text-xs text-wrap truncate md:block;
 }

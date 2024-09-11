@@ -1,0 +1,39 @@
+.container {
+  @apply flex space-x-0 my-2 flex-col md:space-x-4 md:my-6 md:flex-row;
+}
+
+.instructions {
+  @apply p-6 space-y-4 rounded-sm w-full h-full border-b-2 border-secondary md:bg-white md:space-y-6 md:w-4/6 md:border-2;
+}
+
+.instructions > div > h3 {
+  @apply text-base text-center text-primary font-bold md:text-start md:text-xl;
+}
+
+.instructions > div > h1 {
+  @apply text-3xl font-bold text-center md:text-4xl md:text-start;
+}
+
+.instructions > div > p {
+  @apply mt-2 text-center md:text-start;
+}
+
+.instructionsHeading {
+  @apply text-xl text-center font-bold text-accent md:text-start md:text-3xl;
+}
+
+.ingredients {
+  @apply p-6 hidden rounded-sm h-full border-accent md:block md:w-2/6 md:bg-white md:border-2;
+}
+
+.ingredients > h2 {
+  @apply text-3xl font-bold text-accent;
+}
+
+.mobileIngredients {
+  @apply py-4 rounded-sm w-full h-full border-y-2 border-accent md:hidden;
+}
+
+.mobileIngredients > h2 {
+  @apply text-xl font-bold text-accent text-center;
+}
