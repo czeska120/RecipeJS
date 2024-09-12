@@ -20,7 +20,8 @@
       "3. Add marinated meat, bay leaves, and vinegar to the pot.",
       "4. Simmer with water until the meat is tender and the sauce reduces.",
       "5. Season with salt and pepper to taste. Serve hot."
-    ]
+    ],
+    "src": "/images/adobo.jpg"
   },
   {
     "id": 2,
@@ -44,7 +45,8 @@
       "3. Add the eggplants and green chilies and continue cooking until the vegetables are soft.",
       "4. Stir in the kangkong and cook for another 2 minutes.",
       "5. Season with salt and serve hot."
-    ]
+    ],
+    "src": "/images/sinigang.jpg"
   },
   {
     "id": 3,
@@ -67,7 +69,8 @@
       "3. Stir in peanut butter and annatto water.",
       "4. Thicken the sauce with rice flour dissolved in water.",
       "5. Season with salt and pepper. Serve with bagoong."
-    ]
+    ],
+    "src": "/images/karekare.jpg"
   },
   {
     "id": 4,
@@ -90,7 +93,8 @@
       "3. Pour in soy sauce and water, stirring until vegetables are tender.",
       "4. Add the canton noodles and toss until well coated with sauce.",
       "5. Cook for another 2-3 minutes. Serve hot."
-    ]
+    ],
+    "src": "/images/canton.png"
   },
   {
     "id": 5,
@@ -111,7 +115,8 @@
       "3. Heat oil in a deep pan and fry the pork belly until crispy.",
       "4. Remove from oil and let drain on paper towels.",
       "5. Serve with lechon sauce or vinegar dip."
-    ]
+    ],
+    "src": "/images/lechon.jpg"
   },
   {
     "id": 6,
@@ -132,7 +137,8 @@
       "3. Grill the chicken, basting with annatto oil until cooked through.",
       "4. Turn the chicken occasionally to ensure even cooking.",
       "5. Serve hot with garlic rice."
-    ]
+    ],
+    "src": "/images/inasal.jpg"
   },
   {
     "id": 7,
@@ -154,7 +160,8 @@
       "3. Pour in coconut milk and bring to a simmer.",
       "4. Add taro leaves and chilies, stirring occasionally.",
       "5. Simmer until taro leaves are tender and the sauce thickens."
-    ]
+    ],
+    "src": "/images/laing.jpg"
   },
   {
     "id": 8,
@@ -175,7 +182,8 @@
       "3. Pour in coconut milk and bring to a simmer.",
       "4. Add green chilies and continue cooking until pork is tender.",
       "5. Season with salt and pepper to taste."
-    ]
+    ],
+    "src": "/images/express.jpg"
   },
   {
     "id": 9,
@@ -197,7 +205,8 @@
       "3. Once the vegetables are cooked, add pechay.",
       "4. Season with salt and pepper to taste.",
       "5. Serve hot with rice."
-    ]
+    ],
+    "src": "/images/bulalo.jpg"
   },
   {
     "id": 10,
@@ -220,7 +229,8 @@
       "3. Pour in water and bring to a simmer.",
       "4. Add the green papaya and cook until tender.",
       "5. Stir in malunggay leaves and season with fish sauce."
-    ]
+    ],
+    "src": "/images/tinola.jpg"
   },
   {
     "id": 11,
@@ -241,7 +251,8 @@
       "2. Place a spoonful of the mixture on a spring roll wrapper and roll tightly.",
       "3. Heat oil in a pan and deep fry the rolls until golden brown.",
       "4. Drain on paper towels and serve with sweet and sour sauce."
-    ]
+    ],
+    "src": "/images/shanghai.jpg"
   },
   {
     "id": 12,
@@ -260,7 +271,8 @@
       "2. Pour the batter into small molds and top with cheese or salted egg.",
       "3. Steam for about 20 minutes or until cooked through.",
       "4. Let cool before serving."
-    ]
+    ],
+    "src": "/images/puto.jpg"
   },
   {
     "id": 13,
@@ -280,7 +292,8 @@
       "2. Add coconut milk and bring to a simmer.",
       "3. Add squash, string beans, and eggplant, and cook until tender.",
       "4. Season with salt and pepper to taste."
-    ]
+    ],
+    "src": "/images/ginataanggulay.jpg"
   },
   {
     "id": 14,
@@ -302,7 +315,8 @@
       "3. Add chopped pig's face, liver, and ears, and cook until crispy.",
       "4. Season with soy sauce, calamansi juice, and chilies.",
       "5. Serve on a sizzling plate."
-    ]
+    ],
+    "src": "/images/sisig.jpg"
   },
   {
     "id": 15,
@@ -322,7 +336,8 @@
       "2. Add shrimp paste and sauté briefly.",
       "3. Add squash, eggplant, bitter melon, and string beans.",
       "4. Simmer until vegetables are tender."
-    ]
+    ],
+    "src": "/images/pinakbet.jpg"
   },
   {
     "id": 16,
@@ -340,7 +355,8 @@
       "2. Dissolve brown sugar in water to make syrup.",
       "3. Steam silken tofu until warmed through.",
       "4. Serve tofu in cups, topped with tapioca pearls and syrup."
-    ]
+    ],
+    "src": "/images/taho.jpg"
   },
   {
     "id": 17,
@@ -361,7 +377,8 @@
       "2. Sauté garlic and shrimp in a pan, then add annatto water.",
       "3. Pour shrimp sauce over noodles.",
       "4. Top with chicharrón, eggs, and green onions."
-    ]
+    ],
+    "src": "/images/palabok.jpg"
   },
   {
     "id": 18,
@@ -383,7 +400,8 @@
       "3. Stir in rice and water, and bring to a simmer.",
       "4. Cook until rice is soft and porridge-like.",
       "5. Season with salt and pepper, and top with boiled eggs."
-    ]
+    ],
+    "src": "/images/arrozcaldo.jpg"
   },
   {
     "id": 19,
@@ -404,7 +422,8 @@
       "2. Add pork and cook until browned.",
       "3. Stir in vinegar and simmer until pork is tender.",
       "4. Add pig’s blood and chilies, and cook until sauce thickens."
-    ]
+    ],
+    "src": "/images/dinuguan.jpg"
   },
   {
     "id": 20,
@@ -424,6 +443,7 @@
       "1. Layer ingredients in a tall glass.",
       "2. Top with crushed ice, leche flan, and evaporated milk.",
       "3. Sweeten with sugar and serve."
-    ]
+    ],
+    "src": "/images/halohalo.png"
   }
 ]

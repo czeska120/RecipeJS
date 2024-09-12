@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import fs from "fs";
 import path from "path";
 import styles from "./index.module.css";
@@ -19,6 +20,14 @@ export default function Dish({ dish }: any) {
             <div>
               <h3>{dish.category.toUpperCase()}</h3>
               <h1>{dish.name}</h1>
+              <div className="image my-6 md:min-h-96">
+                <Image
+                  src={dish.src}
+                  alt="adobo"
+                  layout="fill"
+                  objectFit="cover"
+                />
+              </div>
               <p>{dish.description}</p>
             </div>
             {/* Mobile Ingredients */}

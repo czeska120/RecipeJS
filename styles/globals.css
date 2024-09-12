@@ -17,21 +17,25 @@ body {
 }
 
 .card {
-  @apply p-4 rounded-sm w-full h-full border-b-2 md:border-2 border-secondary md:mx-4 md:bg-white md:p-4 md:max-w-40 md:min-h-48;
+  @apply flex flex-col h-full p-4 rounded-sm w-full h-full border-b-2 md:flex-col md:border-2 border-secondary md:mx-2 md:bg-white md:p-4 md:max-w-64 md:min-h-64;
 }
 
-.card > div > h2 {
-  @apply flex flex-col font-bold text-xs text-primary;
+.recipe-category {
+  @apply flex flex-col font-bold text-xs text-primary mt-2;
 }
 
-.card > div > h1 {
+.recipe-name {
   @apply font-bold text-lg md:text-xl;
 }
 
-.card:hover > div > h1 {
+.card:hover > div > .recipe-name {
   @apply underline decoration-primary;
 }
 
-.card > div > p {
-  @apply hidden mt-2 text-xs text-wrap truncate md:block;
+.recipe-description {
+  @apply hidden text-xs mt-2 md:block;
+}
+
+.image {
+  @apply h-48 relative;
 }
